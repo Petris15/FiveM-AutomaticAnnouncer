@@ -2,7 +2,7 @@ PetrisConfig = {
     ServerName = "PETRIS",
     ServerNameColor = {255,255,255}, -- R, G, B format
     AnnounceDelay = 10, -- in seconds must be integer
-    messages = { -- you can add as how many you want
+    messages = { -- you can add as how many as you want
         [1] = {text = "1"},
         [2] = {text = "2"},
         [3] = {text = "3"},
